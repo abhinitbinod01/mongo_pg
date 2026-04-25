@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+motor
+pymongo[srv]
+python-dotenv
+psycopg2-binary
