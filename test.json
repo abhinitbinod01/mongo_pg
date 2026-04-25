@@ -1,0 +1,14 @@
+[
+    {
+        "course_id": 101,
+        "course_name": "Python Basics",
+        "credits": 3,
+        "instructor": "Dr. Smith"
+    },
+    {
+        "course_id": 102,
+        "course_name": "Data Structures",
+        "credits": 4,
+        "instructor": "Prof. Jones"
+    }
+]
