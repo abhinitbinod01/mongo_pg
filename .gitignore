@@ -2,4 +2,4 @@
 .venv
 __pycache__
 passneon.txt
-mongosetup.txt
+mongo_setup.txt
